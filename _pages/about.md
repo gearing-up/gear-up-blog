@@ -1,8 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  overlay_image: /assets/images/MvB_200217_0141.jpg
+  show_excerpt: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I really enjoy being outdoors, hiking/running/skiing/cycling/paddling/camping,  during all seasons, for short or longer trips.
+As many similar minded people, I got quite a collection of outdoor clothing and gear.
+Over the last of couple years, I have made quite a few modifications to my outdoor gear, or even made my own gear from scratch.
+I thought it would be nice to document some of those activities, primarily for my own benefit.
+I am actually not that socially inclined and have a healthy dislike of social media, so maintaining a _blog_ feels a bit awkward.
+Anyway, now that you are here, take a look at some of my "projects" and feel free to copy/modify anything you like.
