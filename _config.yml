@@ -57,6 +57,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
+comments :
+  provider : "custom"
+
+
 author:
   name   : "Erwin"
   avatar : "/assets/images/bio-photo.jpg"
