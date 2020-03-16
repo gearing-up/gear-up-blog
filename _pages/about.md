@@ -2,8 +2,9 @@
 permalink: /about/
 title: "About"
 header:
-  overlay_image: /assets/images/MvB_200217_0141.jpg
-  show_excerpt: false
+  image: /assets/images/rainbow.jpg
+  caption: "Ilfjellet, Norway"
+  
 ---
 
 I really enjoy being outdoors, hiking/running/skiing/cycling/paddling/camping,  during all seasons, for short or longer trips.
