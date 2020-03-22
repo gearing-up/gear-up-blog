@@ -38,7 +38,7 @@ However, it is great for wearing all day on bushcrafting winter adventures, or t
 
 Also, it is not windproof at all, so even moderate wind requires the use of some sort of outer shell.
 My waterproof shell jacket does not really fit over the anorak, because the thing is  so bulky.
-I therefore have a modified cotton anorak, originally Swedish army surplus, which fits over the wool anorak as a traditional clothing solution in cold dry weather (no good in wet and humid conditions, which pose a different challenge).   
+I therefore have a modified cotton anorak, originally Swedish army winter gear surplus, which fits over the wool anorak as a traditional clothing solution in cold dry weather (no good in wet and humid conditions, which pose a different challenge).   
 
 
 {% include figure image_path="/assets/images/2020-03-17-wool-anorak_3.jpg" alt="photo of wool anorak" caption="Short mode leaves hands and thighs free" %}
